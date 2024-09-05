@@ -7,4 +7,4 @@ server:
   servlet:
     session:
       tracking-modes: cookie
-      timeout: 10s
+      timeout: 60s
